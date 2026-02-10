@@ -1,0 +1,13 @@
+Write a 5-minute pilot episode for the philosophical ancient drama
+"Equilibrium: Tishina Hrama".
+
+Requirements:
+- realistic antiquity, no magic
+- one location (city square or temple)
+- strong contrast between light and cruelty
+- 3–4 characters maximum
+- philosophical but human dialogue
+- no exposition dumps
+- end with moral dissonance
+
+Return only the script text.
